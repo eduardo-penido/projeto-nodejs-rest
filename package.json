@@ -1,0 +1,19 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardobyte/projeto-nodejs-rest.git"
+  },
+  "author": "eduardo penido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardobyte/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/eduardobyte/projeto-nodejs-rest#readme"
+}
